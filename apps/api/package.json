@@ -9,7 +9,9 @@
   },
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.19.2"
+    "dotenv": "^17.2.2",
+    "express": "^4.19.2",
+    "sarvamai": "^0.1.8"
   },
   "devDependencies": {
     "nodemon": "^3.1.0"
